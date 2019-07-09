@@ -10,5 +10,6 @@ Parking solution using OO concept in Core Java
    - View all the customers
 3. Offer and reward for customers.
    - Customer gets reward point equal to either No. of hours of parking or 5 which ever is minimum.
+   - 1 reward point = Rs. 1/-
    - While paying for parking customer has to pay Rs. ((30 * No. of hours of parking) - Reward points)
    
