@@ -1,4 +1,4 @@
-# Gondor-Parking-Problem
+# Parking Problem
 Parking solution using OO concept in Core Java
 
 1. To run project, go to src -> main -> ParkingSystem.java file and run it as Java Application.
